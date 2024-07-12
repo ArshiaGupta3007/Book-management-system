@@ -18,3 +18,10 @@ This project is a simple Book Management System built using Node.js, Express, Mo
 ## Project Structure
 - **Backend**: Express server handles API routes (`/api/books`) for CRUD operations. MongoDB stores book data using Mongoose models.
 - **Frontend**: React client communicates with the backend via Axios for seamless data management.
+
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+- Node.js installed on your local machine
+- MongoDB installed and running locally or accessible via a remote connection
+- Internet connection to download dependencies from npm
+
